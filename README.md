@@ -1,0 +1,1 @@
+#this encryption program is based on the use of ASCHII and Unicode
